@@ -1,6 +1,4 @@
-﻿// ConsoleApplication1.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
-
+﻿// украл коммнты
 #include <iostream>
 using namespace std;
 
@@ -12,6 +10,7 @@ int main()
     cin >> a >> b;
     c = a + c;
     cout << c;
+    // приветик
 }
 
 
